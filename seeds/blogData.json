@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Blog 1",
+        "date_created": "2/1/23",
+        "blog_contents": "This is my first blog. Thanks for reading"
+    },
+    {
+        "title": "Blog 2",
+        "date_created": "2/2/23",
+        "blog_contents": "This is my secong blog. Thanks for reading"
+    },
+    {
+        "title": "Blog 3",
+        "date_created": "2/3/23",
+        "blog_contents": "This is my third blog. Thanks for reading"
+    }
+]
